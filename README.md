@@ -1,6 +1,6 @@
 # KẾ HOẠCH 10 TUẦN - ĐỒ ÁN CUỐI KỲ
 
-## 1. Giới Thiệu
+## I. Giới Thiệu
 
 ### Mục tiêu
 - Áp dụng công nghệ **LLM Engineering: AI Agents using LangChain** vào đồ án cuối kỳ.
@@ -15,7 +15,7 @@
 
 ---
 
-## 2. Kế Hoạch Theo Tuần
+## II. Kế Hoạch Theo Tuần
 
 ### Tuần 1: Kick-off và giới thiệu dự án
 - Họp nhóm khởi động, giới thiệu dự án và khóa học.
@@ -59,7 +59,7 @@
 
 ---
 
-## 3. Kết Luận
+## III. Kết Luận
 - Kế hoạch đảm bảo quá trình học tập và nghiên cứu có hệ thống.
 - Giúp nhóm vừa **nắm vững kiến thức** từ khóa học, vừa phát triển đồ án hiệu quả.
 - **Họp nhóm định kỳ** hàng tuần để theo dõi tiến độ và điều chỉnh kế hoạch khi cần thiết.
@@ -68,4 +68,5 @@
 
 
 📌 **Liên hệ nhóm**: [email nhóm / group chat]
+
 📌 **Tài nguyên tham khảo**: [Link tài liệu, khóa học, repo GitHub]
