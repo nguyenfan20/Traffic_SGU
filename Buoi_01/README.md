@@ -76,7 +76,7 @@ docker rmi <image_id>
 
 ### 1. Cấu trúc của Docker
 
-![Docker Architecture](images\docker_structure.PNG)
+![Docker Architecture](/images/docker_structure.PNG)
 
 ### 2. Quy trình tạo container từ Dockerfile
 
