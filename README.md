@@ -8,10 +8,10 @@
 - Tham khảo khóa học từ GitHub: [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai).
 
 ### Thành viên nhóm (3 thành viên)
-- **Trưởng nhóm**: Quản lý tiến độ, tổng hợp báo cáo.
-- **Thành viên A**: Nghiên cứu lý thuyết và tài liệu kỹ thuật.
-- **Thành viên B**: Phát triển prototype và lập trình.
-- **Thành viên C**: Kiểm thử, đánh giá và soạn slide thuyết trình.
+- **Phan Tài Nguyên**: Quản lý tiến độ, tổng hợp báo cáo.
+- **Nguyễn Ngọc Khôi**: Nghiên cứu lý thuyết và tài liệu kỹ thuật.
+- **Bùi Trường Thịnh**: Phát triển prototype và lập trình.
+
 
 ---
 
